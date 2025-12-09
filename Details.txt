@@ -1,1 +1,8 @@
-
+Gen AI Level E2 
+ 1. 
+ 2.
+ 3.
+ 4. Generative AI Advance Fine-Tuning for LLMs
+ 5.Gen AI Foundational Models for NLP & Language Understanding
+ 6.Fundamentals of AI Agents Using RAG and LangChain
+ 7.Project Generative AI Applications with RAG and LangChain
