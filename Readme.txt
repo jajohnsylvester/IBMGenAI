@@ -20,4 +20,11 @@ F.DeepLearning AI - Completed Contributor : John
   2.Linear Algebra for Machine Learning and Data Science
   3.Probability & Statistics for Machine Learning & Data Science
 ---------------------------------------------------------------------------------------
-G.Machine Learning Specialization - WIP   Contributor : Suriya
+WIP   Contributor : Suriya
+G.Machine Learning Specialization 
+---------------------------------------------------------------------------------------
+WIP Contributor : Praveen
+H. Generative AI for Software Development Skill Certificate
+   1. Introduction to Generative Ai for Software 
+   2. Team Software Engineering with AI
+   3. AI Powered Software and System Design
