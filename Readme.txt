@@ -1,6 +1,6 @@
 
 
-A. Gen AI Level E2  - Completed    Contributor : John
+A. IBM Gen AI Level E2  - Completed    Contributor : John
  1. Generative AI and LLMs Architecture and Data Preparation
  2. Generative AI Language Modeling with Transformers
  3.Generative AI Engineering and Fine-Tuning Transformers
@@ -29,31 +29,33 @@ H. Generative AI for Software Development Skill Certificate
    2. Team Software Engineering with AI
    3. AI Powered Software and System Design
 ------------------------------------------------------------------------------------------
-Pending Allocation
+WIP Pending Allocation
 ------------------
 IBM
 IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate
     Introduction to Deep Learning & Neural Networks with Keras
     Deep Learning with Keras and Tensorflow
-    Introduction to Neural Networks and PyTorch - WIP
+    Introduction to Neural Networks and PyTorch - to be captured 
     Deep Learning with PyTorch
     AI Capstone Project with Deep Learning
-
+-----------------------------------------------------------------------------------------------
 IBM Machine Learning Professional Certificate
     Exploratory Data Analysis for Machine Lea - To be captured
     Supervised Machine Learning: Regression
-    Supervised Machine Learning: Classificat
+    Supervised Machine Learning: Classification
     Unsupervised Machine Learning
     Deep Learning and Reinforcement Learn
     Machine Learning Capstone
-
+-------------------------------------------------------------------------------
 IBM AI Engineering Professional Certificate
     Machine Learning with Python
-    Introduction to Deep Learning & Neural - Repeat
+    Introduction to Deep Learning & Neural Networks with Keras - Repeat - to be captured 
     Deep Learning with Keras and Tensorflow - Repeat
     Introduction to Neural Networks and PyTorch - Repeat
     Deep Learning with PyTorch - Repeat
     AI Capstone Project with Deep Learning - Repeat
+    
+                     IBM Gen AI Level E2  - Completed
     Generative AI and LLMs: Architecture and D - Completed
     Gen AI Foundational Models for NLP & La - Completed
     Generative AI Language Modeling with Tr - Completed
@@ -61,17 +63,21 @@ IBM AI Engineering Professional Certificate
     Generative AI Advance Fine-Tuning for L - Completed
     Fundamentals of AI Agents Using RAG a - Completed
     Project: Generative AI Applications with RAG and LangChain - Completed.
-
+--------------------------------------------------------------------------------------------------------------
 IBM Generative AI Engineering Professional Certificate
     Introduction to Artificial Intelligence (AI) - to be captured
     Generative AI: Introduction and Applications - to be captured
     Generative AI: Prompt Engineering Basics - to be captured
+
     Python for Data Science, AI & Development
     Developing AI Applications with Python and Flask
     Building Generative AI-Powered Applications with Python
-    Data Analysis with Python - to be captured
+    Data Analysis with Python -   to be captured
     Machine Learning with Python - Repeat
-    Introduction to Deep Learning & Neural - Repeat - To be captured.
+    Introduction to Deep Learning & Neural Networks with Keras - Repeat - to be captured 
+    
+   
+                IBM Gen AI Level E2  - Completed
     Generative AI and LLMs: Architecture and D - Completed
     Gen AI Foundational Models for NLP & La - Completed
     Generative AI Language Modeling with Tr - Completed
@@ -79,16 +85,18 @@ IBM Generative AI Engineering Professional Certificate
     Generative AI Advance Fine-Tuning for L - Completed
     Fundamentals of AI Agents Using RAG a - Completed
     Project: Generative AI Applications with RAG and LangChain - Completed.
-
+---------------------------------------------------------------------------------
 Generative AI for Java and Spring Developers Specialization
 Generative AI for Software Developers Specialization
 
 Generative AI for IT Systems Analysts and Architects Specialization
 Cybersecurity Fundamentals Specialization
-Generative AI for Data Engineers Specialization
+
 IBM AI Developer Professional Certificate
 
 Splunk Search Expert Specialization
+
+----------------------------------------------------------------------------------------
 
 
 -----------------------------------------------------------------------------------------
@@ -100,9 +108,17 @@ Data Science Methodology
 Python for Data Science, AI & Development
 Python Project for Data Science
 Databases and SQL for Data Science with Python
-Data Analysis with Python
+Data Analysis with Python -   to be captured
 Data Visualization with Python
 Machine Learning with Python
 Applied Data Science Capstone
-Generative AI: Elevate Your Data Science Career
+Generative AI: Elevate Your Data Science Career  - to be captured 
 Data Scientist Career Guide and Interview Preparation
+
+-------------------------------------------------------------------------------------------------
+
+Generative AI for Data Engineers Specialization
+   Generative AI: Introduction and Applications - to be captured
+   Generative AI: Prompt Engineering Basics - to be captured 
+   Generative AI: Elevate Your Data Science Career  - to be captured 
+
