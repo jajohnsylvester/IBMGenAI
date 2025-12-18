@@ -36,7 +36,7 @@ IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate
     Introduction to Deep Learning & Neural Networks with Keras
     Deep Learning with Keras and Tensorflow
     Introduction to Neural Networks and PyTorch - to be captured 
-    Deep Learning with PyTorch
+    Deep Learning with PyTorch - to be captured 
     AI Capstone Project with Deep Learning
 -----------------------------------------------------------------------------------------------
 IBM Machine Learning Professional Certificate
@@ -52,7 +52,7 @@ IBM AI Engineering Professional Certificate
     Introduction to Deep Learning & Neural Networks with Keras - Repeat - to be captured 
     Deep Learning with Keras and Tensorflow - Repeat
     Introduction to Neural Networks and PyTorch - Repeat
-    Deep Learning with PyTorch - Repeat
+    Deep Learning with PyTorch - to be captured
     AI Capstone Project with Deep Learning - Repeat
     
                      IBM Gen AI Level E2  - Completed
