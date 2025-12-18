@@ -64,6 +64,7 @@ IBM AI Engineering Professional Certificate
     Fundamentals of AI Agents Using RAG a - Completed
     Project: Generative AI Applications with RAG and LangChain - Completed.
 --------------------------------------------------------------------------------------------------------------
+WIP : Contributor : Nithya 
 IBM Generative AI Engineering Professional Certificate
     Introduction to Artificial Intelligence (AI) - to be captured
     Generative AI: Introduction and Applications - to be captured
