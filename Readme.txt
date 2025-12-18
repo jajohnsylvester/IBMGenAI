@@ -41,8 +41,8 @@
 
 #### **Unassigned (Pending Allocation)**
 - IBM Deep Learning with PyTorch, Keras, and TensorFlow Professional Certificate
-   - Introduction to Deep Learning and Neural Networks with Keras
-   - Deep Learning with Keras and TensorFlow
+   - Introduction to Deep Learning and Neural Networks with Keras - to be captured 
+   - Deep Learning with Keras and TensorFlow - to be captured 
    - Introduction to Neural Networks with PyTorch – To be captured
    - Deep Learning with PyTorch – To be captured
    - AI Capstone Project with Deep Learning
