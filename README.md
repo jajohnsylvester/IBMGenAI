@@ -37,7 +37,29 @@ This document provides a consolidated list of professional certificates, courses
 | 4 | Generative AI Engineering and Fine-Tuning Transformers |John | Captured| 
 | 5 | Generative AI Advance Fine-Tuning for LLMs |John | Captured| 
 | 6 | Fundamentals of AI Agents Using RAG and LangChain |John | Captured| 
-|7 | Project: Generative AI Applications with RAG and LangChain |John |Captured | 
+| 7 | Project: Generative AI Applications with RAG and LangChain |John |Captured | 
+
+## IBM Generative AI Engineering Professional Certificate
+
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- | :--- | :--- | 
+| 1 |Introduction to Artificial Intelligence (AI) | | | 
+| 2 | Generative AI: Introduction and Applications | | | 
+| 3 | Generative AI: Prompt Engineering Basics | | | 
+| 4 | Python for Data Science, AI & Development | | | 
+| 5 | Developing AI Applications with Python and Flask| | | 
+| 6 | Building Generative AI-Powered Applications with Python | | | 
+| 7 | Data Analysis with Python | | | 
+| 8 | Machine Learning with Python | | | 
+| 9 | Introduction to Deep Learning & Neural Networks with Keras | | | 
+| 10 | Generative AI and LLMs: Architecture and Data Preparation |John | Captured | 
+| 11 | Gen AI Foundational Models for NLP & Language Understanding | John | Captured| 
+| 12| Generative AI Language Modeling with Transformers |John |Captured| 
+| 13 | Generative AI Engineering and Fine-Tuning Transformers |John |Captured | 
+| 14 | Generative AI Advance Fine-Tuning for LLMs  |John |Captured | 
+| 15 | Fundamentals of AI Agents Using RAG and LangChain |John | Captured| 
+| 16 | Project: Generative AI Applications with RAG and LangChain |John |Captured | 
+
 
 
 
@@ -78,26 +100,6 @@ This document provides a consolidated list of professional certificates, courses
 | 4 | Deep Learning with PyTorch | Computer Vision, CNNs, GPU acceleration. | | |
 | 5 | AI Capstone Project | Final evaluation and cross-framework deployment. | | |
 
-## IBM Generative AI Engineering Professional Certificate
-
-| Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Generative AI: Introduction and Applications | GANs, VAEs, Transformers, and Ethics | | |
-| 2 | Generative AI: Prompt Engineering Basics | Prompt patterns, zero-shot/few-shot learning | | |
-| 3 | Generative AI: Foundation Models and Platforms | Model hubs (Hugging Face), IBM watsonx.ai | | |
-| 4 | Building Generative AI Applications with Python | API integration, Streamlit, Gradio | | |
-| 5 | Generative AI: Business Transformation & Careers | Enterprise strategy, ROI, and job market trends | | |
-| 6 | Introduction to Deep Learning | Neural networks, Backpropagation, PyTorch/TensorFlow | | |
-| 7 | Deep Learning with PyTorch | Tensors, Datasets, and Model training loops | | |
-| 8 | Natural Language Processing with Python | Tokenization, NLTK, Spacy, and RNNs | | |
-| 9 | Building NLP Applications with Hugging Face | Pipelines, Pre-trained models, and Fine-tuning | | |
-| 10 | Generative AI: Intro to LangChain | Chains, Agents, and Memory components | | |
-| 11 | Generative AI: Building RAG Systems | Vector Databases, Embeddings, and Retrieval | | |
-| 12 | Generative AI: Advanced Prompt Engineering | Chain-of-Thought (CoT), Tree-of-Thoughts | | |
-| 13 | Generative AI: Model Fine-tuning | PEFT, LoRA, and QLoRA techniques | | |
-| 14 | Generative AI: Ethics and Guardrails | Bias detection, Hallucination mitigation, Governance | | |
-| 15 | Generative AI: Specialized Skills (Capstone Prep) | Advanced API handling and system architecture | | |
-| 16 | Generative AI Engineering Capstone Project | Building an end-to-end AI application for a portfolio | | |
 
 
 
