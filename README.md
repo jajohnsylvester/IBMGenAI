@@ -23,19 +23,19 @@ This document provides a consolidated list of professional certificates, courses
 
 | Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Machine Learning with Python | Supervised/Unsupervised learning with Scikit-learn. | | |
+| 1 | Machine Learning with Python |  | | |
 | 2 | Intro to DL with Keras | ANN foundations, backpropagation, Keras API. | | |
 | 3 | DL with Keras and TensorFlow | Transformers, CNNs, RNNs, GANs, Diffusion models. | | |
 | 4 | Intro to Neural Networks & PyTorch | Tensors, Autograd, Softmax, Linear Regression. | | |
 | 5 | Deep Learning with PyTorch | MNIST classification, Batch Norm, CNN architectures. | | |
 | 6 | AI Capstone (Deep Learning) | Deploying an Image Classifier on a web app. | | |
-| 7 | GenAI & LLM Architecture | Tokenization, Embeddings, Attention mechanisms. | | |
-| 8 | Foundational NLP Models | BERT, GPT, LLaMA, Language understanding. | | |
-| 9 | Prompt Engineering Basics | Prompt patterns, Zero-shot/Few-shot learning. | | |
-| 10 | Advanced Fine-Tuning | Instruction tuning, RLHF, PPO, Model alignment. | | |
-| 11 | RAG and Agentic AI Fundamentals | Vector DBs (Chroma/Pinecone), LangChain. | | |
-| 12 | AI Apps with LangChain | Building QA Bots and complex AI workflows. | | |
-| 13 | Agentic AI Capstone | Final project: Deploying an autonomous AI Agent. | | |
+| 7 | Generative AI and LLMs: Architecture and Data Preparation | Tokenization, Embeddings, Attention mechanisms. | | |
+| 8 | Gen AI Foundational Models for NLP & Language Understanding | BERT, GPT, LLaMA, Language understanding. | | |
+| 9 | Generative AI Language Modeling with Transformers |  | | |
+| 10 | Generative AI Engineering and Fine-Tuning Transformers |  | | |
+| 11 | Generative AI Advance Fine-Tuning for LLMs  | | | |
+| 12 | Fundamentals of AI Agents Using RAG and LangChain | | | |
+| 13 | Project: Generative AI Applications with RAG and LangChain |  | | |
 
 ## GenAI for Data Eng.
 
@@ -85,4 +85,5 @@ This document provides a consolidated list of professional certificates, courses
 | 1 |  | Deep Learning AI : Mathematics for Machine Learning and Data Science | John | Captured |
 | 2 |  | Calculus for Machine Learning and Data Science | John |Captured |
 | 3 |  | Probability & Statistics for Machine Learning & Data Science | John | Captured |
+
 
