@@ -9,6 +9,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 |  Deep Learning AI : Mathematics for Machine Learning and Data Science | John | Captured |
 | 2 |  Calculus for Machine Learning and Data Science | John |Captured |
 | 3 |  Probability & Statistics for Machine Learning & Data Science | John | Captured |
+
 ## IBM AI Engineering Professional Certificate
 
 | Course # | Course Name |  Contributor | Current Status |
@@ -26,6 +27,19 @@ This document provides a consolidated list of professional certificates, courses
 | 11 | Generative AI Advance Fine-Tuning for LLMs  |John |Captured | 
 | 12 | Fundamentals of AI Agents Using RAG and LangChain |John | Captured| 
 | 13 | Project: Generative AI Applications with RAG and LangChain |John |Captured | 
+
+## Generative AI Engineering with LLMs Specialization
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- |  :--- | :--- |
+| 1 | Generative AI and LLMs: Architecture and Data Preparation |John | Captured| 
+| 2 | Gen AI Foundational Models for NLP & Language Understanding |John | Captured| 
+| 3 | Generative AI Language Modeling with Transformers |John | Captured| 
+| 4 | Generative AI Engineering and Fine-Tuning Transformers |John | Captured| 
+| 5 | Generative AI Advance Fine-Tuning for LLMs |John | Captured| 
+| 6 | Fundamentals of AI Agents Using RAG and LangChain |John | Captured| 
+|7 | Project: Generative AI Applications with RAG and LangChain |John |Captured | 
+
+
 
 ## IBM Data Science
 
@@ -84,6 +98,7 @@ This document provides a consolidated list of professional certificates, courses
 | 14 | Generative AI: Ethics and Guardrails | Bias detection, Hallucination mitigation, Governance | | |
 | 15 | Generative AI: Specialized Skills (Capstone Prep) | Advanced API handling and system architecture | | |
 | 16 | Generative AI Engineering Capstone Project | Building an end-to-end AI application for a portfolio | | |
+
 
 
 
