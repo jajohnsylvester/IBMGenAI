@@ -6,9 +6,9 @@ This document provides a consolidated list of professional certificates, courses
 
 | Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | What is Data Science? | Foundations, Careers, Industry use cases. | | |
-| 2 | Tools for Data Science | Jupyter, GitHub, RStudio, Watson Studio. | | |
-| 3 | Data Science Methodology | 10-stage methodology (Business to Deployment). | | |
+| 1 | What is Data Science? |  | | |
+| 2 | Tools for Data Science |  | | |
+| 3 | Data Science Methodology |  | | |
 | 4 | Python for DS, AI & Dev | Python basics, Data structures, APIs, Web scraping. | | |
 | 5 | Python Project for DS | Hands-on: Dashboarding & financial data analysis. | | |
 | 6 | Databases and SQL for DS | SQL queries, Joins, Python DB-API. | | |
@@ -19,23 +19,23 @@ This document provides a consolidated list of professional certificates, courses
 | 11 | GenAI for Data Scientists | Prompting for data cleaning and augmentation. | | |
 | 12 | Career Guide & Interview Prep | Resume building and technical job search. | | |
 
-## IBM AI Engineering
+## IBM AI Engineering Professional Certificate
 
-| Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Machine Learning with Python |  | | |
-| 2 | Intro to DL with Keras | ANN foundations, backpropagation, Keras API. | | |
-| 3 | DL with Keras and TensorFlow | Transformers, CNNs, RNNs, GANs, Diffusion models. | | |
-| 4 | Intro to Neural Networks & PyTorch | Tensors, Autograd, Softmax, Linear Regression. | | |
-| 5 | Deep Learning with PyTorch | MNIST classification, Batch Norm, CNN architectures. | | |
-| 6 | AI Capstone (Deep Learning) | Deploying an Image Classifier on a web app. | | |
-| 7 | Generative AI and LLMs: Architecture and Data Preparation | Tokenization, Embeddings, Attention mechanisms. | | |
-| 8 | Gen AI Foundational Models for NLP & Language Understanding | BERT, GPT, LLaMA, Language understanding. | | |
-| 9 | Generative AI Language Modeling with Transformers |  | | |
-| 10 | Generative AI Engineering and Fine-Tuning Transformers |  | | |
-| 11 | Generative AI Advance Fine-Tuning for LLMs  | | | |
-| 12 | Fundamentals of AI Agents Using RAG and LangChain | | | |
-| 13 | Project: Generative AI Applications with RAG and LangChain |  | | |
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- |  :--- | :--- |
+| 1 | Machine Learning with Python | | | 
+| 2 | Intro to DL with Keras | | | 
+| 3 | DL with Keras and TensorFlow | | | 
+| 4 | Intro to Neural Networks & PyTorch | | | 
+| 5 | Deep Learning with PyTorch | | | 
+| 6 | AI Capstone (Deep Learning) | | | 
+| 7 | Generative AI and LLMs: Architecture and Data Preparation |John | Captured | 
+| 8 | Gen AI Foundational Models for NLP & Language Understanding | John | Captured| 
+| 9 | Generative AI Language Modeling with Transformers |John |Captured| 
+| 10 | Generative AI Engineering and Fine-Tuning Transformers |John |Captured | 
+| 11 | Generative AI Advance Fine-Tuning for LLMs  |John |Captured | 
+| 12 | Fundamentals of AI Agents Using RAG and LangChain |John | Captured| 
+| 13 | Project: Generative AI Applications with RAG and LangChain |John |Captured | 
 
 ## GenAI for Data Eng.
 
@@ -85,5 +85,6 @@ This document provides a consolidated list of professional certificates, courses
 | 1 |  | Deep Learning AI : Mathematics for Machine Learning and Data Science | John | Captured |
 | 2 |  | Calculus for Machine Learning and Data Science | John |Captured |
 | 3 |  | Probability & Statistics for Machine Learning & Data Science | John | Captured |
+
 
 
