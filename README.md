@@ -71,7 +71,8 @@ This document provides a consolidated list of professional certificates, courses
 | 4 | Deep Learning with PyTorch | | | 
 | 5 | AI Capstone Project with Deep Learning | | | 
 
-
+## IBM Machine Learning Professional Certificate
+## IBM AI Developer Professional Certificate
 ## IBM Data Science ( Required correction ) 
 
 | Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
@@ -98,6 +99,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | GenAI: Elevate Your DE Career | Schema design, Synthetic data, Infrastructure. | | |
 | 2 | Prompting for Data Engineers | SQL generation and pipeline logic automation. | | |
 | 3 | GenAI for ETL & Repositories | Data cleaning automation and lakehouse design. | | |
+
 
 
 
