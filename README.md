@@ -61,9 +61,18 @@ This document provides a consolidated list of professional certificates, courses
 | 16 | Project: Generative AI Applications with RAG and LangChain |John |Captured | 
 
 
+## IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate
+
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- | :--- | :--- | 
+| 1 |Introduction to Deep Learning & Neural Networks with Keras | | | 
+| 2 | Deep Learning with Keras and Tensorflow | | | 
+| 3 | Introduction to Neural Networks and PyTorch | | | 
+| 4 | Deep Learning with PyTorch | | | 
+| 5 | AI Capstone Project with Deep Learning | | | 
 
 
-## IBM Data Science
+## IBM Data Science ( Required correction ) 
 
 | Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
 | :--- | :--- | :--- | :--- | :--- |
@@ -90,15 +99,7 @@ This document provides a consolidated list of professional certificates, courses
 | 2 | Prompting for Data Engineers | SQL generation and pipeline logic automation. | | |
 | 3 | GenAI for ETL & Repositories | Data cleaning automation and lakehouse design. | | |
 
-## IBM Deep Learning
 
-| Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Intro to DL with Keras | Building first Neural Networks. | | |
-| 2 | Building DL Models with TF | TensorFlow 2.x, Custom layers, Model scaling. | | |
-| 3 | Deep Neural Networks (PyTorch) | Tensors, Gradient Descent, Momentum. | | |
-| 4 | Deep Learning with PyTorch | Computer Vision, CNNs, GPU acceleration. | | |
-| 5 | AI Capstone Project | Final evaluation and cross-framework deployment. | | |
 
 
 
