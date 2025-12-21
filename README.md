@@ -73,32 +73,33 @@ This document provides a consolidated list of professional certificates, courses
 
 ## IBM Machine Learning Professional Certificate
 ## IBM AI Developer Professional Certificate
-## IBM Data Science ( Required correction ) 
+## IBM Data Science Professional Certificate
 
-| Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | What is Data Science? |  | | |
-| 2 | Tools for Data Science |  | | |
-| 3 | Data Science Methodology |  | | |
-| 4 | Python for DS, AI & Dev | Python basics, Data structures, APIs, Web scraping. | | |
-| 5 | Python Project for DS | Hands-on: Dashboarding & financial data analysis. | | |
-| 6 | Databases and SQL for DS | SQL queries, Joins, Python DB-API. | | |
-| 7 | Data Analysis with Python | Pandas, Numpy, Wrangling, EDA, Model Dev. | | |
-| 8 | Data Visualization with Python | Matplotlib, Seaborn, Folium, Dashboarding. | | |
-| 9 | Machine Learning with Python | Regression, Classification, Clustering, SVM. | | |
-| 10 | Applied Data Science Capstone | SpaceX project: Dashboards & Predictive modeling. | | |
-| 11 | GenAI for Data Scientists | Prompting for data cleaning and augmentation. | | |
-| 12 | Career Guide & Interview Prep | Resume building and technical job search. | | |
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- | :--- | :--- | 
+| 1 |What is Data Science? | | | 
+| 2 | Tools for Data Science | | | 
+| 3 | Data Science Methodology | | | 
+| 4 | Python for Data Science, AI & Development | | | 
+| 5 | Python Project for Data Science| | | 
+| 6 | Databases and SQL for Data Science with Python | | | 
+| 7 | Data Analysis with Python | | | 
+| 8 | Data Visualization with Python | | | 
+| 9 | Machine Learning with Python | | | 
+| 10 | Applied Data Science Capstone | |  | 
+| 11 | Generative AI: Elevate Your Data Science Career |  | | 
+| 12| Data Scientist Career Guide and Interview Preparation | | | 
 
 
 
-## GenAI for Data Eng.
+## GenAI for Data Eng. ( requires correction ) 
 
 | Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | GenAI: Elevate Your DE Career | Schema design, Synthetic data, Infrastructure. | | |
 | 2 | Prompting for Data Engineers | SQL generation and pipeline logic automation. | | |
 | 3 | GenAI for ETL & Repositories | Data cleaning automation and lakehouse design. | | |
+
 
 
 
