@@ -82,6 +82,7 @@ This document provides a consolidated list of professional certificates, courses
 
 | Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |  | Deep Learning AI : Mathematics for Machine Learning and Data Science | | |
-| 2 |  | Calculus for Machine Learning and Data Science | | |
-| 3 |  | Probability & Statistics for Machine Learning & Data Science | | |
+| 1 |  | Deep Learning AI : Mathematics for Machine Learning and Data Science | John | Captured |
+| 2 |  | Calculus for Machine Learning and Data Science | John |Captured |
+
+| 3 |  | Probability & Statistics for Machine Learning & Data Science | John | Captured |
