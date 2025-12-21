@@ -75,3 +75,13 @@ This document provides a consolidated list of professional certificates, courses
 | 14 | Generative AI: Ethics and Guardrails | Bias detection, Hallucination mitigation, Governance | | |
 | 15 | Generative AI: Specialized Skills (Capstone Prep) | Advanced API handling and system architecture | | |
 | 16 | Generative AI Engineering Capstone Project | Building an end-to-end AI application for a portfolio | | |
+
+
+## Deep Learning AI : Mathematics for Machine Learning and Data Science
+
+
+| Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 |  | Deep Learning AI : Mathematics for Machine Learning and Data Science | | |
+| 2 |  | Calculus for Machine Learning and Data Science | | |
+| 3 |  | Probability & Statistics for Machine Learning & Data Science | | |
