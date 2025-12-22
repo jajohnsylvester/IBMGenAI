@@ -43,9 +43,9 @@ This document provides a consolidated list of professional certificates, courses
 
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- | 
-| 1 |Introduction to Artificial Intelligence (AI) | | | 
-| 2 | Generative AI: Introduction and Applications | | | 
-| 3 | Generative AI: Prompt Engineering Basics | | | 
+| 1 |Introduction to Artificial Intelligence (AI) |Nithya | In Progress| 
+| 2 | Generative AI: Introduction and Applications | Nithya | In Progress| 
+| 3 | Generative AI: Prompt Engineering Basics | Nithya | In Progress|
 | 4 | Python for Data Science, AI & Development | | | 
 | 5 | Developing AI Applications with Python and Flask| | | 
 | 6 | Building Generative AI-Powered Applications with Python | | | 
@@ -72,6 +72,16 @@ This document provides a consolidated list of professional certificates, courses
 | 5 | AI Capstone Project with Deep Learning | | | 
 
 ## IBM Machine Learning Professional Certificate
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- | :--- | :--- | 
+| 1 |Python for Data Science, AI & Development | | | 
+| 2 | Python Project for Data Science | | | 
+| 3 | Supervised Machine Learning: Regression | | | 
+| 4 | Supervised Machine Learning: Classification | | | 
+| 5 | Unsupervised Machine Learning | | | 
+| 6 | Deep Learning and Reinforcement Learning | | | 
+| 7 | Machine Learning Capstone | | | 
+
 ## IBM AI Developer Professional Certificate
 ## IBM Data Science Professional Certificate
 
@@ -92,13 +102,15 @@ This document provides a consolidated list of professional certificates, courses
 
 
 
-## GenAI for Data Eng. ( requires correction ) 
+## Generative AI for Data Engineers Specialization
 
-| Course # | Course Name | Core Modules / Skills | Contributor | Current Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | GenAI: Elevate Your DE Career | Schema design, Synthetic data, Infrastructure. | | |
-| 2 | Prompting for Data Engineers | SQL generation and pipeline logic automation. | | |
-| 3 | GenAI for ETL & Repositories | Data cleaning automation and lakehouse design. | | |
+## Generative AI Engineering with LLMs Specialization
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- |  :--- | :--- |
+| 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
+| 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
+| 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
