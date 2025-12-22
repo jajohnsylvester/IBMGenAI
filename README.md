@@ -35,6 +35,19 @@ This document provides a consolidated list of professional certificates, courses
 | 3 |  Machine Learning: Classification | Guna Balan | In Progress |
 | 4 |  Machine Learning: Clustering & Retrieval | Guna Balan | In Progress |
 
+## Google Cybersecurity Professional Certificate
+
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- |  :--- | :--- |
+| 1 |Foundations of Cybersecurity | | | 
+| 2 | Play It Safe: Manage Security Risks | | | 
+| 3 | Connect and Protect: Networks and Network Security | | | 
+| 4 | Tools of the Trade: Linux and SQL | | | 
+| 5 | Assets, Threats, and Vulnerabilities | | | 
+| 6 | Sound the Alarm: Detection and Response | | | 
+| 7 | Automate Cybersecurity Tasks with Python | |  | 
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs |  | | 
+| 9 | Accelerate Your Job Search with AI | ||
 
 ## IBM Cybersecurity Fundamentals Specialization
 | Course # | Course Name |  Contributor | Current Status |
@@ -144,6 +157,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
