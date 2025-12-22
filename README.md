@@ -26,6 +26,24 @@ This document provides a consolidated list of professional certificates, courses
 | 2 |  Team Software Engineering with AI | Praveen | In Progress |
 | 3 |  AI-Powered Software and System Design | Praveen | In Progress |
 
+## University of Washington : Machine Learning Specialization
+
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- | :--- | :--- |
+| 1 |  Machine Learning Foundations: A Case Study Approach Course | Guna Balan | In Progress |
+| 2 |  Machine Learning: Regression | Guna Balan | In Progress |
+| 3 |  Machine Learning: Classification | Guna Balan | In Progress |
+| 4 |  Machine Learning: Clustering & Retrieval | Guna Balan | In Progress |
+
+
+## IBM Cybersecurity Fundamentals Specialization
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- |  :--- | :--- |
+| 1 | Introduction to Cybersecurity Essentials | | | 
+| 2 | Cybersecurity Architecture | | | 
+| 3 | Encryption and Cryptography Essentials | | | 
+| 4 | Introduction to Cybersecurity Careers | | | 
+
 ## IBM AI Engineering Professional Certificate
 
 | Course # | Course Name |  Contributor | Current Status |
@@ -126,6 +144,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
