@@ -10,6 +10,15 @@ This document provides a consolidated list of professional certificates, courses
 | 2 |  Calculus for Machine Learning and Data Science | John |Captured |
 | 3 |  Probability & Statistics for Machine Learning & Data Science | John | Captured |
 
+## Deep Learning AI : Machine Learning Specialization
+
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- | :--- | :--- |
+| 1 |  Supervised Machine Learning: Regression and Classification | Suriya | In Progress |
+| 2 |  Calculus for Machine Learning and Data Science | Suriya | In Progress |
+| 3 |  Unsupervised Learning, Recommenders, Reinforcement Learning | Suriya | In Progress |
+
+
 ## IBM AI Engineering Professional Certificate
 
 | Course # | Course Name |  Contributor | Current Status |
@@ -110,6 +119,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
