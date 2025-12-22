@@ -18,6 +18,13 @@ This document provides a consolidated list of professional certificates, courses
 | 2 |  Calculus for Machine Learning and Data Science | Suriya | In Progress |
 | 3 |  Unsupervised Learning, Recommenders, Reinforcement Learning | Suriya | In Progress |
 
+## Deep Learning AI : Generative AI for Software Development Skill Certificate
+
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- | :--- | :--- |
+| 1 |  Introduction to Generative AI for Software Development | Praveen | In Progress |
+| 2 |  Team Software Engineering with AI | Praveen | In Progress |
+| 3 |  AI-Powered Software and System Design | Praveen | In Progress |
 
 ## IBM AI Engineering Professional Certificate
 
@@ -119,6 +126,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
