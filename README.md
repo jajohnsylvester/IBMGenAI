@@ -2,7 +2,7 @@
 
 This document provides a consolidated list of professional certificates, courses, and their core modules.
 
-+ ## Deep Learning AI : Mathematics for Machine Learning and Data Science
+## Deep Learning AI : Mathematics for Machine Learning and Data Science
 
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- |
@@ -144,6 +144,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
