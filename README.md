@@ -66,7 +66,7 @@ This document provides a consolidated list of professional certificates, courses
 | 3 | Deep Learning with Keras and Tensorflow | | | 
 | 4 | Introduction to Neural Networks and PyTorch | | | 
 | 5 | Deep Learning with PyTorch | John | Captured | 
-| 6 | AI Capstone Project with Deep Learning | | | 
+| 6 | AI Capstone Project with Deep Learning | John  | Captured | 
 | 7 | Generative AI and LLMs: Architecture and Data Preparation |John | Captured | 
 | 8 | Gen AI Foundational Models for NLP & Language Understanding | John | Captured| 
 | 9 | Generative AI Language Modeling with Transformers |John |Captured| 
@@ -116,7 +116,7 @@ This document provides a consolidated list of professional certificates, courses
 | 2 | Deep Learning with Keras and Tensorflow | | | 
 | 3 | Introduction to Neural Networks and PyTorch | | | 
 | 4 | Deep Learning with PyTorch | John | Captured | 
-| 5 | AI Capstone Project with Deep Learning | | | 
+| 5 | AI Capstone Project with Deep Learning | John | Captured | 
 
 ## IBM Machine Learning Professional Certificate
 | Course # | Course Name |  Contributor | Current Status |
@@ -157,6 +157,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
