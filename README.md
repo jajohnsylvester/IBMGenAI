@@ -62,7 +62,7 @@ This document provides a consolidated list of professional certificates, courses
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- |  :--- | :--- |
 | 1 |Machine Learning with Python | John | Captured | 
-| 2 | Introduction to Deep Learning & Neural Networks with Keras | | | 
+| 2 | Introduction to Deep Learning & Neural Networks with Keras | John | Captured | 
 | 3 | Deep Learning with Keras and Tensorflow | | | 
 | 4 | Introduction to Neural Networks and PyTorch | | | 
 | 5 | Deep Learning with PyTorch | | | 
@@ -98,7 +98,7 @@ This document provides a consolidated list of professional certificates, courses
 | 6 | Building Generative AI-Powered Applications with Python | | | 
 | 7 | Data Analysis with Python | | | 
 | 8 | Machine Learning with Python | John | Captured | 
-| 9 | Introduction to Deep Learning & Neural Networks with Keras | | | 
+| 9 | Introduction to Deep Learning & Neural Networks with Keras | John | Captured | 
 | 10 | Generative AI and LLMs: Architecture and Data Preparation |John | Captured | 
 | 11 | Gen AI Foundational Models for NLP & Language Understanding | John | Captured| 
 | 12| Generative AI Language Modeling with Transformers |John |Captured| 
@@ -112,7 +112,7 @@ This document provides a consolidated list of professional certificates, courses
 
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- | 
-| 1 |Introduction to Deep Learning & Neural Networks with Keras | | | 
+| 1 |Introduction to Deep Learning & Neural Networks with Keras | John | Captured | 
 | 2 | Deep Learning with Keras and Tensorflow | | | 
 | 3 | Introduction to Neural Networks and PyTorch | | | 
 | 4 | Deep Learning with PyTorch | | | 
@@ -157,6 +157,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
