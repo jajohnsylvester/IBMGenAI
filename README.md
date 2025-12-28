@@ -90,10 +90,10 @@ This document provides a consolidated list of professional certificates, courses
 
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- | 
-| 1 |Introduction to Artificial Intelligence (AI) |Nithya | In Progress| 
-| 2 | Generative AI: Introduction and Applications | Nithya | In Progress| 
-| 3 | Generative AI: Prompt Engineering Basics | Nithya | In Progress|
-| 4 | Python for Data Science, AI & Development | | | 
+| 1 |Introduction to Artificial Intelligence (AI) |Nithya | InProgress| 
+| 2 | Generative AI: Introduction and Applications | Nithya | InProgress| 
+| 3 | Generative AI: Prompt Engineering Basics | Nithya | InProgress|
+| 4 | Python for Data Science, AI & Development | Nithya | InProgress | 
 | 5 | Developing AI Applications with Python and Flask| | | 
 | 6 | Building Generative AI-Powered Applications with Python | | | 
 | 7 | Data Analysis with Python | | | 
@@ -134,8 +134,8 @@ This document provides a consolidated list of professional certificates, courses
 | :--- | :--- | :--- | :--- | 
 | 1 |Introduction to Software Engineering | | | 
 | 2 | Introduction to Artificial Intelligence (AI) | | | 
-| 3 | Generative AI: Introduction and Applicationsy | | | 
-| 4 | Generative AI: Prompt Engineering Basics | | | 
+| 3 | Generative AI: Introduction and Applications | Nithya | InProgress| 
+| 4 | Generative AI: Prompt Engineering Basics | Nithya  | InProgress| 
 | 5 | Introduction to HTML, CSS, & JavaScript| | | 
 | 6 | Python for Data Science, AI & Development | | | 
 | 7 | Developing AI Applications with Python and Flask | | | 
@@ -172,6 +172,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
