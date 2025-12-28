@@ -96,7 +96,7 @@ This document provides a consolidated list of professional certificates, courses
 | 4 | Python for Data Science, AI & Development | Nithya | InProgress | 
 | 5 | Developing AI Applications with Python and Flask| | | 
 | 6 | Building Generative AI-Powered Applications with Python | | | 
-| 7 | Data Analysis with Python | | | 
+| 7 | Data Analysis with Python | John | Captured| 
 | 8 | Machine Learning with Python | John | Captured | 
 | 9 | Introduction to Deep Learning & Neural Networks with Keras | John | Captured | 
 | 10 | Generative AI and LLMs: Architecture and Data Preparation |John | Captured | 
@@ -155,7 +155,7 @@ This document provides a consolidated list of professional certificates, courses
 | 4 | Python for Data Science, AI & Development | | | 
 | 5 | Python Project for Data Science| | | 
 | 6 | Databases and SQL for Data Science with Python | | | 
-| 7 | Data Analysis with Python | | | 
+| 7 | Data Analysis with Python | John | Captured | 
 | 8 | Data Visualization with Python | | | 
 | 9 | Machine Learning with Python | John | Captured | 
 | 10 | Applied Data Science Capstone | |  | 
@@ -172,6 +172,7 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Generative AI: Introduction and Applications | Nithya | In Progress| 
 | 2 | Generative AI: Prompt Engineering Basics | Nithya | In Progress| 
 | 3 | Generative AI: Elevate your Data Engineering Career | | | 
+
 
 
 
